@@ -1,0 +1,15 @@
+[submodule "ECConfig"]
+	path = ECConfig
+	url = git@github.com:elegantchaos/ECConfig
+[submodule "ECLogging"]
+	path = ECLogging
+	url = git@github.com:elegantchaos/ECLogging
+[submodule "ECCore"]
+	path = ECCore
+	url = git@github.com:elegantchaos/ECCore
+[submodule "ECTwitter"]
+	path = ECTwitter
+	url = git@github.com:elegantchaos/ECTwitter
+[submodule "OAuthConsumer"]
+	path = OAuthConsumer
+	url = git@github.com:samdeane/oauthconsumer
