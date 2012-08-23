@@ -19,3 +19,6 @@
 [submodule "yajl-objc"]
 	path = yajl-objc
 	url = git://github.com/samdeane/yajl-objc.git
+[submodule "Frameworks/ECUnitTests"]
+	path = Frameworks/ECUnitTests
+	url = git://github.com/elegantchaos/ECUnitTests.git
