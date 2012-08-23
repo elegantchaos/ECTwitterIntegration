@@ -10,9 +10,6 @@
 [submodule "ECTwitter"]
 	path = ECTwitter
 	url = git@github.com:elegantchaos/ECTwitter
-[submodule "oauthconsumer"]
-	path = oauthconsumer
-	url = git@github.com:samdeane/oauthconsumer.git
 [submodule "ECOAuthConsumer"]
 	path = ECOAuthConsumer
 	url = git@github.com:elegantchaos/ECOAuthConsumer.git
