@@ -5,46 +5,15 @@
       location = "group:ECConfig/ECConfig.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:ECUnitTests/ECUnitTests.xcodeproj">
-   </FileRef>
-   <FileRef
       location = "group:ECLogging/ECLogging.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:ECCore/ECCore.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:ECText/ECText.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:ECNetwork/ECNetwork.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:ECTouch/ECTouch.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:ECLocation/ECLocation.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:ECAnalytics/ECAnalytics.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:ECAppKit/ECAppKit.xcodeproj">
-   </FileRef>
-   <FileRef
       location = "group:ECTwitter/ECTwitter.xcodeproj">
    </FileRef>
-   <Group
-      location = "container:"
-      name = "Examples">
-      <FileRef
-         location = "group:ECLoggingExamples/iOS/ECLoggingSampleIOS.xcodeproj">
-      </FileRef>
-      <FileRef
-         location = "group:ECLoggingExamples/Mac/ECLoggingSampleMac.xcodeproj">
-      </FileRef>
-      <FileRef
-         location = "group:ECUnitTestsExample/ECUnitTestsExample.xcodeproj">
-      </FileRef>
-   </Group>
+   <FileRef
+      location = "group:ECOAuthConsumer/ECOAuthConsumer.xcodeproj">
+   </FileRef>
 </Workspace>
