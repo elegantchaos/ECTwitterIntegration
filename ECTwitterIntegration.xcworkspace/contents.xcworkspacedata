@@ -19,4 +19,10 @@
    <FileRef
       location = "group:ECTwitter/ECTwitter.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:yajl-objc/Project/YAJL.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:yajl-objc/Project-iOS/YAJLiOS.xcodeproj">
+   </FileRef>
 </Workspace>

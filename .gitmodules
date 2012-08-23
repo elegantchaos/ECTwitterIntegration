@@ -16,3 +16,6 @@
 [submodule "ECRegExKitLite"]
 	path = ECRegExKitLite
 	url = git@github.com:elegantchaos/ECRegExKitLite.git
+[submodule "yajl-objc"]
+	path = yajl-objc
+	url = git://github.com/samdeane/yajl-objc.git
