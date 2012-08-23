@@ -13,9 +13,9 @@
 [submodule "ECOAuthConsumer"]
 	path = ECOAuthConsumer
 	url = git@github.com:elegantchaos/ECOAuthConsumer.git
-[submodule "ECRegExKitLite"]
-	path = ECRegExKitLite
-	url = git@github.com:elegantchaos/ECRegExKitLite.git
+[submodule "ECRegexKitLite"]
+	path = ECRegexKitLite
+	url = git@github.com:elegantchaos/ECRegexKitLite.git
 [submodule "yajl-objc"]
 	path = yajl-objc
 	url = git://github.com/samdeane/yajl-objc.git
