@@ -11,9 +11,12 @@
       location = "group:ECCore/ECCore.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:ECTwitter/ECTwitter.xcodeproj">
+      location = "group:ECOAuthConsumer/ECOAuthConsumer.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:ECOAuthConsumer/ECOAuthConsumer.xcodeproj">
+      location = "group:ECRegExKitLite/ECRegExKitLite.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ECTwitter/ECTwitter.xcodeproj">
    </FileRef>
 </Workspace>
