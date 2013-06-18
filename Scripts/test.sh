@@ -10,4 +10,4 @@ source "$base/../ECUnitTests/Resources/Scripts/test-common.sh"
 # test ECTwitter
 
 macbuild "ECTwitter Mac" test
-iosbuild "ECTwitter iOS" test
+iosbuild "ECTwitter iOS" build
