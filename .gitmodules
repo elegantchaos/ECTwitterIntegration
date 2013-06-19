@@ -1,6 +1,3 @@
-[submodule "ECConfig"]
-	path = ECConfig
-	url = git@github.com:elegantchaos/ECConfig
 [submodule "ECLogging"]
 	path = ECLogging
 	url = git@github.com:elegantchaos/ECLogging
