@@ -8,12 +8,6 @@
       location = "container:"
       name = "Dependencies">
       <FileRef
-         location = "group:ECUnitTests/ECUnitTests.xcodeproj">
-      </FileRef>
-      <FileRef
-         location = "group:ECConfig/ECConfig.xcodeproj">
-      </FileRef>
-      <FileRef
          location = "group:ECLogging/ECLogging.xcodeproj">
       </FileRef>
       <FileRef
