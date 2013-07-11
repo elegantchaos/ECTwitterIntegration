@@ -5,7 +5,7 @@
 project=ECTwitterIntegration
 
 base=`dirname $0`
-source "$base/../ECUnitTests/Resources/Scripts/test-common.sh"
+source "$base/../ECLogging/Extras/Scripts/test-common.sh"
 
 # test ECTwitter
 
